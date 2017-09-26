@@ -1,5 +1,10 @@
 # Hacker Scripts
 
+```
+慢慢转一波脚本大师, 先留库准备着. 笑 :smile: Merlin 2017.9
+```
+
+
 Based on a _[true
 story](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)_:
 
@@ -19,7 +24,7 @@ story](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)_:
 
 > xxx: holy sh*t I'm keeping those
 
-Original: http://bash.im/quote/436725 (in Russian)  
+Original: http://bash.im/quote/436725 (in Russian) 
 Pull requests with other implementations (Python, Perl, Shell, etc) are welcome.
 
 ## Usage
